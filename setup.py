@@ -14,7 +14,7 @@ setup(
     name='wenyu-common',
     version='1.0.0.dev',
     description='Those common packages used in my python projects',
-    url='https://github.com/calvinjiang/hive-executor-py',
+    url='https://github.com/Wen2yu/python-common',
     author='zhangjiawen',
     author_email='939529834@qq.com',
     packages=find_packages(),
