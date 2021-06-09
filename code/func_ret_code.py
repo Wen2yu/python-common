@@ -1,5 +1,5 @@
 from enum import Enum
-from common.entity import BaseEnumItem as CodeItem
+from entity import BaseEnumItem as CodeItem
 
 
 class FuncRetCode(Enum):

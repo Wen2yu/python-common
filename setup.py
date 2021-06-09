@@ -18,5 +18,5 @@ setup(
     author='zhangjiawen',
     author_email='939529834@qq.com',
     packages=find_packages(),
-    install_requires=['numpy', 'redis', 'requests', 'SQLAlchemy', 'urllib3']
+    install_requires=['interval', 'numpy', 'redis', 'requests', 'SQLAlchemy', 'urllib3']
 )

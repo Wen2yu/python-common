@@ -20,7 +20,7 @@ def gen_task_params(app, **kwargs):
         kwargs.update({'begin': yesterday, 'end': today})
     if not kwargs.get('ts'):
         kwargs['ts'] = int(time.time())
-    log(app, 'old_params: %s, new_params: %s' % (old_params, kwargs))
+    log(app, f'old_params: {old_params}, new_params: {kwargs}')
     return kwargs
 
 
