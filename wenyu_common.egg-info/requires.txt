@@ -1,0 +1,5 @@
+numpy
+redis
+requests
+SQLAlchemy
+urllib3
