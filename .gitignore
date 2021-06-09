@@ -1,5 +1,5 @@
 .idea
-build
-dist
-wenyu_common.egg-info
 *.iml
+/build/
+/dist/
+/wenyu_common.egg-info/
